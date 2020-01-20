@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577645559 source:c:\users\hakan\onedrive\masaüstü\code block projects\prolab1-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+
